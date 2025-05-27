@@ -17,7 +17,7 @@
 
 *Приведите скриншот интерфейса Kibana на странице http://<ip вашего сервера>:5601/app/dev_tools#/console, где будет выполнен запрос GET /_cluster/health?pretty*.
 ### *Ответ:*
-![png](https://github.com/EgorGEgor/HW-11.3/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%202.png)
+![png](https://github.com/EgorGEgor/HW-11.3/blob/main/3.jpg)
 
 ---
 
