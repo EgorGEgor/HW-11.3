@@ -27,7 +27,7 @@
 
 *Приведите скриншот интерфейса Kibana, на котором видны логи Nginx.*
 ### *Ответ:*
-![png](https://github.com/EgorGEgor/HW-11.3/blob/main/4.jpg)
+![png]()
 
 ---
 
@@ -37,6 +37,6 @@
 
 *Приведите скриншот интерфейса Kibana, на котором видны логи Nginx, которые были отправлены через Filebeat.*
 ### *Ответ:*
-![png]()
+![png](https://github.com/EgorGEgor/HW-11.3/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%205.png)
 
 ---
