@@ -27,7 +27,7 @@
 
 *Приведите скриншот интерфейса Kibana, на котором видны логи Nginx.*
 ### *Ответ:*
-![png]()
+![png](https://github.com/EgorGEgor/HW-11.3/blob/main/nginx.png)
 
 ---
 
